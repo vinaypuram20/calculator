@@ -1,3 +1,5 @@
+import time
+
 # Program make a simple calculator
 
 # This function adds two numbers
@@ -46,3 +48,5 @@ while True:
         break
     else:
         print("Invalid Input")
+
+time.sleep(15)
